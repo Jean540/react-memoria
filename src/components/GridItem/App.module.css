@@ -1,0 +1,13 @@
+.container {
+  height: 100px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+}

@@ -1,0 +1,14 @@
+.container {
+  margin: 20px 0;
+}
+
+.label {
+  font-size: 15px;
+  color: #6a7d8b;
+}
+
+.value {
+  font-size: 37px;
+  font-weight: bold;
+  color: #101c40;
+}
